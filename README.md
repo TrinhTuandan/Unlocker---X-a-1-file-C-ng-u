@@ -1,4 +1,4 @@
-# Unlocker---X-a-1-file-C-ng-u
+# Unlocker
  Unlocker là một tiện ích (utility) Windows phổ biến dùng để mở các tệp tin hoặc thư mục bị khóa bởi các quy trình (processes) hoặc ứng dụng khác. Khi bạn gặp thông báo lỗi rằng một tệp hoặc thư mục không thể bị xóa, di chuyển, hoặc đổi tên vì nó đang được sử dụng bởi một ứng dụng khác, Unlocker có thể giúp bạn giải quyết vấn đề này.
 
 Công dụng chính của Unlocker bao gồm:
